@@ -5,11 +5,7 @@ using System.Text;
 
 namespace Lab4Bits
 {
-    class Program
+    class LZWDecompressor
     {
-        static void Main(string[] args)
-        {
-            
-        }
     }
 }
