@@ -1,0 +1,6 @@
+C:\Users\BattleStation\source\repos\Lab4Bits\Lab4Bits\bin\Debug\Lab4Bits.exe
+C:\Users\BattleStation\source\repos\Lab4Bits\Lab4Bits\bin\Debug\Lab4Bits.pdb
+C:\Users\BattleStation\source\repos\Lab4Bits\Lab4Bits\obj\Debug\Lab4Bits.csprojAssemblyReference.cache
+C:\Users\BattleStation\source\repos\Lab4Bits\Lab4Bits\obj\Debug\Lab4Bits.csproj.CoreCompileInputs.cache
+C:\Users\BattleStation\source\repos\Lab4Bits\Lab4Bits\obj\Debug\Lab4Bits.exe
+C:\Users\BattleStation\source\repos\Lab4Bits\Lab4Bits\obj\Debug\Lab4Bits.pdb

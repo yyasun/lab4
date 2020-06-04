@@ -40,6 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ANSI.cs" />
+    <Compile Include="BitReader.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="LZWCompressor.cs" />
+    <Compile Include="LZWDecompressor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
